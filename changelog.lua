@@ -1,0 +1,19 @@
+--changelog
+-- aceite de hemp cambio el tiempo de combustion de 20 a 370 (el mismo que el bloque de carbon)
+-- eliminado caja de trabajo y hoja de objetos de x-decor
+-- eliminados los botones de unified_inventory, poner casa e ir a la casa (para eso esta posx)
+--comandos /sb, /who, sb para ver donde esta tu cadaver, who para saber quien esta conectado
+-- Fire starter imagen fue rellenada con arcoiris en su fondo para diferenciarlo de flint and steel
+-- Cambiada la textura del desert_stone, desert_stone_brick and desert_stone_block a la de retro, con un color parecido al original
+--Ahora se puede esparcir Rain Forest Litter con un Jungle Grass encima del Dirt
+--Ahora se puede hacer Bloques de Tiza juntando Tiza molida, en el codigo original de darkage no se puede
+--Incluidas las piedras con minerales, se pueden hacer con 8x bloques de piedra y en el medio una del mineral, incluidos mithril, silver y rainbow
+--Eliminado el mod sethome para poner posx
+--Agregado bloques en registrations.lua/stairsplus/moreblocks para poder hacerles cortes en el Chainsaw
+--Agregado piedras 8x y minerales de mineninth_in_ground y minecoin_in_ground del mod bitchange
+--Agregado bloque ghost_crystal para el no creative mode
+--Agregado Basic_Materials, ahora se pueden pintar milky glasses
+--Modificado POSX para incluirle colores, no solo a lo programado en el spawn, tambien a los comandos comunes.
+--tutoriales
+--Para reparar dos herramientas deben ser del mismo material, y ponerlas en el craft grid...
+--torch can stop waters and lava, in a 2y blocks if you put a torch you can make a water burble deep in the ocean, that means you can breathe into ocean!
